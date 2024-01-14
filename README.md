@@ -7,7 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kristinelle](https://github.com/kristinelle)
 
+- 📝 Honors and Awards [https://sites.google.com/view/my-honors-and-awards/home](https://sites.google.com/view/my-honors-and-awards/home)
+
 - 📫 How to reach me **ellebenjamin@graduate.utm.my**
+
+- 📄 Know about my skills & experiences [https://sites.google.com/view/my-skills-and-experiences/home](https://sites.google.com/view/my-skills-and-experiences/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
