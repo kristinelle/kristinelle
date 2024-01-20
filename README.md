@@ -12,21 +12,6 @@ Hello! I am an enthusiastic and dedicated student with a passion for Computer Sc
 
 ## EDUCATION
 ***MATRICULATION***
-|INSTITUTION|COURSE|LEVEL|
-|--|--|
-<h1 align="center">Hello Everyone! I'm Kristine Elle Benjamin</h1>
-<h3 align="center">I'm a student in Universiti Teknologi Malaysia (UTM)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kristinelle&label=Profile%20views&color=0e75b6&style=flat" alt="kristinelle" /> </p>
-
-- 🌱 I’m currently taking **Bachelor of Computer Science (Graphic and Multimedia Software)**
-
-## **SUMMARY OF MYSELF**
-
-Hello! I am an enthusiastic and dedicated student with a passion for Computer Science. I'm eager to leverage academic achievements, hands-on experiences, and a commitment to continuous learning in a web developing and designing setting. Other than that, I also possesses a solid foundation in programming, complemented by practical experience gained through extracurricular projects. I seek opportunities to further develop expertise and make a positive impact within a collaborative and dynamic environment.
-
-## EDUCATION
-***MATRICULATION***
 |INSTITUTION|COURSE|
 |--|--|
 |KOLEJ MATRIKULASI LABUAN (KML)  |PHYSICAL SCIENCE  |
@@ -109,4 +94,3 @@ These experiences have allowed me to develop strong organizational and leadershi
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristinelle&" alt="kristinelle" /></p>
-
