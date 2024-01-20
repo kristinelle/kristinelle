@@ -1,10 +1,13 @@
 
+
 <h1 align="center">Hello Everyone! I'm Kristine Elle Benjamin</h1>
 <h3 align="center">I'm a student in Universiti Teknologi Malaysia (UTM)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristinelle&label=Profile%20views&color=0e75b6&style=flat" alt="kristinelle" /> </p>
 
 - 🌱 I’m currently taking **Bachelor of Computer Science (Graphic and Multimedia Software)**
+
+![Brown Pink Cute Happy birthday Card](https://github.com/kristinelle/kristinelle/assets/148412488/4ad95d98-c8f5-4791-a70a-186f1d3cd55f)
 
 ## **SUMMARY OF MYSELF**
 
