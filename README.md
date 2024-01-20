@@ -11,6 +11,12 @@
 Hello! I am an enthusiastic and dedicated student with a passion for Computer Science. I'm eager to leverage academic achievements, hands-on experiences, and a commitment to continuous learning in a web developing and designing setting. Other than that, I also possesses a solid foundation in programming, complemented by practical experience gained through extracurricular projects. I seek opportunities to further develop expertise and make a positive impact within a collaborative and dynamic environment.
 
 ## EDUCATION
+***PRIMARY/SECONDARY SCHOOL***
+|INSTITUTION|DURATION|
+|--|--|
+|SJK(C) KIN KIAU, KINARUT |2011-2016 |
+|SMK KINARUT |2017-2021 |
+
 ***MATRICULATION***
 |INSTITUTION|COURSE|
 |--|--|
@@ -23,21 +29,27 @@ Hello! I am an enthusiastic and dedicated student with a passion for Computer Sc
 
 ## WORK EXPERIENCE
 **POSITION:** F&B WORKER 
+
 **COMPANY/ORGANIZATION:** Beringis Beach Resort 
+
 **DURATION:** 2022
 
  - Ensure a positive dining experience for patrons. 
  - Communicate effectively with team members to fulfill customer requests.
  
  **POSITION:** PART TIME WAITRESS
+ 
  **COMPANY/ORGANIZATION:** Wunder Cafe
+ 
  **DURATION:** 2022
  
  - Collaborate with team members to provide excellent customer service and create a positive dining experience.
  - Address any customer concerns or complaints with professionalism and courtesy.
 
  **POSITION:** CREATIVE CONTENT COORDINATOR
+ 
  **COMPANY/ORGANIZATION:** BOUNDLESS
+ 
  **DURATION:** 2023
  
 
